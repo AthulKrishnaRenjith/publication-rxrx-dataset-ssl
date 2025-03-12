@@ -1,0 +1,3 @@
+[submodule "moco"]
+	path = moco
+	url = https://github.com/facebookresearch/moco.git
